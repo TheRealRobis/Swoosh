@@ -14,7 +14,7 @@
             app:layout_constraintTop_toTopOf="parent"
             app:layout_constraintBottom_toBottomOf="parent" app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintStart_toStartOf="parent"
-            android:scaleType="centerCrop" app:layout_constraintHorizontal_bias="1.0"
+            android:scaleType="centerCrop" app:layout_constraintHorizontal_bias="0.0"
             app:layout_constraintVertical_bias="0.0"/>
     <ImageView
             android:layout_width="108dp"
@@ -44,9 +44,9 @@
             android:textAlignment="center"
             android:text="ON GOING ALL OUT" android:textStyle="bold"/>
     <TextView
-            android:text="Find a team in your city & dominate the league."
-            android:layout_width="202dp"
-            android:layout_height="45dp"
+            android:text="Find a team in your city and dominate the league."
+            android:layout_width="225dp"
+            android:layout_height="44dp"
             android:id="@+id/textView3" android:textColor="@android:color/white"
             android:singleLine="false" android:textAlignment="center" android:textSize="16sp"
             android:layout_marginEnd="8dp" app:layout_constraintEnd_toEndOf="@+id/imageView"
