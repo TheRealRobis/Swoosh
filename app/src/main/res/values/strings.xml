@@ -2,4 +2,7 @@
     <string name="app_name">Swoosh</string>
     <string name="background_image">background image</string>
     <string name="applogo">applogo</string>
+    <string name="i_am_a">I am a:</string>
+    <string name="begginer">BEGGINER</string>
+    <string name="baller">BALLER</string>
 </resources>
